@@ -26,7 +26,7 @@ void PrintOddEven(bool IsEven, int N)
 			Count += 2;
 		}
 			
-		std::cout << "n\n";
+		std::cout << "\n";
 			
 }
 
