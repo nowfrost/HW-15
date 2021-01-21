@@ -9,13 +9,13 @@ void PrintOddEven(bool IsEven, int N)
 	int Count;
 		if(IsEven)
 			{
-				std::cout<<" четные числа от 0 до "<< N <<":\n";
+				std::cout<<" четные числа от 0 до "<< N <<": ";
 				Count = 0;
 
 			}
 		else
 		{
-			std::cout << "Ќечетные числа от 0 до " << N << ":\n";
+			std::cout << "Ќечетные числа от 0 до " << N << ": ";
 			Count = 1;
 
 		}
